@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": "c0f5acf6-73be-4b4a-bdb5-993c4607e4d6",
+      "title": "Read clean code",
+      "completed": true
+    },
+    {
+      "id": "e1f56a74-ab40-4929-a04f-b2fc0998b1e0",
+      "title": "Read clean architecture",
+      "completed": false
+    }
+  ]
+}
