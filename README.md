@@ -1,4 +1,4 @@
-# vue_learning_todoapp
+# Vue 2 - Todo App
 
 ## Project setup
 
@@ -6,13 +6,29 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Install JSON Server globally
+
+``` js
+npm install -g json-server
+```
+
+### Start JSON Server
+
+``` js
+json-server --watch db.json
+```
+
+Now your Todos resources will be host on **<http://localhost:3000/todos>**.
+
+### Compiles and Hot-Reloads for development
 
 ``` js
 npm run serve
 ```
 
-### Compiles and minifies for production
+Now your app will be running on **<http://localhost:8080/>**.
+
+### Compiles and Minifies for production
 
 ``` js
 npm run build
