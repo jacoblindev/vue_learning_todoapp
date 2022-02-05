@@ -3,12 +3,17 @@
     {
       "id": "c0f5acf6-73be-4b4a-bdb5-993c4607e4d6",
       "title": "Read clean code",
-      "completed": true
+      "completed": false
     },
     {
       "id": "e1f56a74-ab40-4929-a04f-b2fc0998b1e0",
       "title": "Read clean architecture",
       "completed": false
+    },
+    {
+      "id": "e020f7f8-37a4-4759-9604-3058a56dca74",
+      "title": "Read Atomic Habits",
+      "completed": true
     }
   ]
 }
